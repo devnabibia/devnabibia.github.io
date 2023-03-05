@@ -63,7 +63,7 @@ body::-webkit-scrollbar-track {
     background: var(--bg-scroll);
 }
 body::-webkit-scrollbar-thumb {
-    background-color: var(--skin-color) ;
+    background-color: #000;
     border-radius: 6px;
     border: 3px solid var(--bg-scroll);
 }
@@ -978,12 +978,12 @@ img{
 }
 
 .service-section .service-item-inner p{
-    font-size: 20px;
-    color: var(--text-black-300);
+    font-size: 15px;
+    color: #ffffff;
     margin: 1;
-    line-height: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    line-height: 20px;
+    font-family: 'Poppons', sans-serif;
+    font-weight: lighter;
     
 }
 /***** End service-section *****/
